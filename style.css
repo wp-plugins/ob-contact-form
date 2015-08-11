@@ -1,0 +1,25 @@
+.obcf_first_name_input{
+	width:49%;
+	margin: 0 0 15px 0;
+}
+.obcf_last_name_input{
+	width:49%;
+	margin: 0 0 15px 0;
+}
+.obcf_tel_input{
+	width:99%;
+	margin:0 0 15px 0;
+}
+
+.obcf_email_input{
+	width:99%;
+}
+
+.obcf_submit_input{
+	background: #4386f9 none repeat scroll 0 0 !important;
+    border: medium none #4386f9 !important;
+	font-weight: 600;
+}
+td {
+	padding:10px;
+}
